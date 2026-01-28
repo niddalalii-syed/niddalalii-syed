@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating apps since 2020 with a focus on scalability and user experience<br>📚 Currently expanding my skills in Flutter and advanced backend integrations<br>🎯 Goal: Build reliable mobile solutions and contribute to innovative projects<br>🎲 Fun fact: I enjoy refining UI details until every interaction feels smooth and natural</p>
+<p align="left"> Creating apps since 2020 with a focus on scalability and user experience<br> Currently expanding my skills in Flutter and advanced backend integrations<br> Goal: Build reliable mobile solutions and contribute to innovative projects<br> Fun fact: I enjoy refining UI details until every interaction feels smooth and natural</p>
 
 ###
 
